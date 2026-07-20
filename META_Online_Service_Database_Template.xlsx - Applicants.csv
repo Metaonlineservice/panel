@@ -1,0 +1,6 @@
+id,full_name,email,password_hash,phone,country,nationality,passport_number,date_of_birth,created_at,status,role
+APP_1001,Sarah Mitchell,sarah.mitchell@email.com,$2a$10$N9qo8uLOickgx2ZMRZoMy.Mrq4VjZcJa5,+1-415-555-0101,United States,American,P12345678,1990-05-14,2025-01-15T10:30:00Z,active,applicant
+APP_1002,Liam OConnor,liam.oconnor@email.com,$2a$10$N9qo8uLOickgx2ZMRZoMy.Mrq4VjZcJa5,+353-1-555-0142,Ireland,Irish,X98765432,1988-11-22,2025-01-18T14:15:00Z,active,applicant
+APP_1003,Aiko Tanaka,aiko.tanaka@email.com,$2a$10$N9qo8uLOickgx2ZMRZoMy.Mrq4VjZcJa5,+81-3-5555-0100,Japan,Japanese,JP4567890,1995-03-08,2025-02-01T09:00:00Z,active,applicant
+APP_1004,Carlos Mendez,carlos.mendez@email.com,$2a$10$N9qo8uLOickgx2ZMRZoMy.Mrq4VjZcJa5,+34-91-555-0123,Spain,Spanish,ES1234567S,1992-07-30,2025-02-10T16:45:00Z,active,applicant
+APP_1005,Priya Sharma,priya.sharma@email.com,$2a$10$N9qo8uLOickgx2ZMRZoMy.Mrq4VjZcJa5,+91-22-5555-0199,India,Indian,T8765432,1993-12-15,2025-02-20T11:20:00Z,active,applicant
